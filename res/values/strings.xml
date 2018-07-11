@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zomato</string>
+    <string name="simple">"The pizza was decent, not the best I've had. The staff was great- knowledgeable and willing to give recommendations. Extensive wine list. Th..."</string>
+    <string name="jess">Jess</string>
+    <string name="apr_22_2017">Apr 22, 2017</string>
+    <string name="rating_4_5">rating 4.5</string>
+    <string name="button_like">Like</string>
+</resources>
